@@ -1,4 +1,6 @@
 {
+  "name": "tmrwdao-documentation",
+  "version": "1.0.0",
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
